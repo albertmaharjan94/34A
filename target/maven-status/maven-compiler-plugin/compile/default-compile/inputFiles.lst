@@ -1,6 +1,12 @@
+/Users/digitech/NetBeansProjects/Led34A/src/main/java/com/groupb/led34a/view/LoginScreen.java
 /Users/digitech/NetBeansProjects/Led34A/src/main/java/com/groupb/led34a/database/DbConnection.java
 /Users/digitech/NetBeansProjects/Led34A/src/main/java/com/groupb/led34a/model/RegisterModel.java
+/Users/digitech/NetBeansProjects/Led34A/src/main/java/com/groupb/led34a/model/UserData.java
 /Users/digitech/NetBeansProjects/Led34A/src/main/java/com/groupb/led34a/dao/AuthDAO.java
 /Users/digitech/NetBeansProjects/Led34A/src/main/java/com/groupb/led34a/Led34A.java
+/Users/digitech/NetBeansProjects/Led34A/src/main/java/com/groupb/led34a/view/DashboardScreen.java
 /Users/digitech/NetBeansProjects/Led34A/src/main/java/com/groupb/led34a/database/MySqlConnection.java
+/Users/digitech/NetBeansProjects/Led34A/src/main/java/com/groupb/led34a/view/DashBoardScreen_1.java
+/Users/digitech/NetBeansProjects/Led34A/src/main/java/com/groupb/led34a/view/RegisterScreen.java
+/Users/digitech/NetBeansProjects/Led34A/src/main/java/com/groupb/led34a/model/LoginResponse.java
 /Users/digitech/NetBeansProjects/Led34A/src/main/java/com/groupb/led34a/model/LoginModel.java
